@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Pokedex</title>
+</head>
+<body>
+    <header>
+        <img id="logo" src="img/images.png" alt="logo">
+        <h1>Mi pokedex</h1>
+    </header>
+    <hr>
+    <div class="icon-bar">
+        <a class="active" href="index.html"><i class="fa fa-home"></i></a>
+        <a href="https://www.google.com.mx/?hl=es-419"><i class="fa fa-search"></i></a>
+        <a href="https://github.com/laureths12"><i class="fa fa-envelope"></i></a>
+        <a href="https://code.futureed.com/classes/21"><i class="fa fa-globe"></i></a>
+      </div>
+    <hr>
+    <main>
+        <div id="pokedex">
+        <div id="left">
+        <div class="display">
+         <img id="pkm-img" src="assets/Gleyly.jpg" alt="Pokemon">
+        </div>
+        <div id="dpad" onclick="buscar();">
+         <div id="dpad-top"></div>
+         <div id="dpad-horizontal"></div>
+         <div id="dpad-bottom"></div>
+        </div>
+        <div id="btn-circle"></div>
+        </div>
+        <div id="right">
+         <div class="display">
+        <ul>
+           <li>
+            <p id="name"><b>Nombre: </b>Glalie</p>
+           </li>
+           <li>
+            <p id="type"><b>Tipo: </b>Hielo</p>
+           </li> 
+           <li>
+            <p id="height"><b>Altura: </b>1,5 m</p>
+           </li>
+           <li>
+            <p id="weight"><b>Peso: </b>256,5 kg</p>
+           </li>
+           <li>
+            <p id="des"><b>Descripción: </b>Ni siquiera el fuego puede derretir su cuerpo de hielo. Es capaz de congelar en un instante la humedad del ambiente.</p>
+           </li>
+        </ul>
+         </div>
+         <div id="pad">
+            <div class="btn"></div>
+            <div class="btn"></div>
+            <div class="btn"></div>
+            <div class="btn"></div>
+            <div class="btn"></div>
+            <div class="btn"></div>
+            <div class="btn"></div>
+            <div class="btn"></div>
+         </div>
+       </div>
+   </div>
+</main>
+<script type="text/javascript" src="js/prueba.js"></script>                                     
+<script>
+    buscar();
+</script>
+</body>
+</html>
