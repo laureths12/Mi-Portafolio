@@ -1,0 +1,151 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+   background-color: rgba(176, 63, 10, 0.801);
+   
+}
+header {
+    background-color:peru;
+    color: black;
+    padding: 0.1px;
+}
+header > h1 {
+    display: inline-block;
+    margin-left: 30px;
+ }
+ #logo {
+    width: 200px;
+ }
+ nav {
+    margin: 10px 10%;
+ }
+ nav > a {
+    padding: 0 10px;
+ }
+ #pokedex {
+    width: 750px;
+    margin: 50px auto;
+ }
+ #left {
+    width: 250px;
+    height: 300px;
+    float: left;
+    background-color: peru;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+ }
+ #right {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    background-color:peru;
+    border-left-color:chocolate;
+    border-left-style: solid;
+    border-left-width: 3px;
+    float: left;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 20px;
+ }
+ .display {
+    border-color:chocolate;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 3px; 
+ }
+ #left > .display {
+    width: 180px;
+    height: 150px;
+    margin-left: 35px;
+    margin-top: 40px;
+    background-color: chocolate;
+ }
+ #left > .display > img {
+    margin-left: 15px;
+    height: 100%;
+ }
+ #dpad {
+    width: 60px;
+    height: 60px;
+    margin-top: 15px;
+    margin-left: 20px;
+    display: inline-block;
+ }
+ #dpad-top, #dpad-bottom {
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    background-color: maroon;
+ }
+ #dpad-horizontal {
+    width: 60px;
+    height: 20px;
+    background-color: maroon;
+ }
+ #btn-circle {
+    width: 50px;
+    height: 50px;
+    margin-left: 95px;
+    border-style: solid;
+    border-color: maroon;
+    border-radius: 25px;
+    background-color: rgba(139, 0, 0, 0.387);
+    display: inline-block;
+ }
+ #right > .display {
+    width: 180px;
+    height: 120px;
+    margin-left: 35px;
+    margin-top: 20px;
+    background-color: chocolate;
+    font-size: 12px;
+ }
+ #pad {
+    width: 148px;
+    height: 65px;
+    margin-left: 60px;
+    margin-top: 15px;
+ }
+ #pad > .btn {
+    width: 25px;
+    height: 25px;
+    background-color: rgba(139, 0, 0, 0.387);
+    display: inline-block;
+    border-style: solid;
+    border-color: maroon;
+    border-width: 2px;
+    border-radius: 3px;
+ }
+ ul {
+    margin: 0;
+    padding: 0;
+ }
+ li { 
+    list-style-type: none;
+ }
+ li > p {
+    margin: 0 5px;
+ } 
+ .icon-bar {
+   width: 100%; /* Full-width */
+   background-color: rgb(176, 62, 10); /* Dark-grey background */
+   overflow: auto; /* Overflow due to float */
+ }
+ 
+ .icon-bar a {
+   float: left; /* Float links side by side */
+   text-align: center; /* Center-align text */
+   width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
+   padding: 8px 0; /* Some top and bottom padding */
+   transition: all 0.3s ease; /* Add transition for hover effects */
+   color: white; /* White text color */
+   font-size: 20px; /* Increased font size */
+ }
+ 
+ .icon-bar a:hover {
+   background-color: #000; /* Add a hover color */
+ }
+ 
+ .active {
+   background-color: rgb(176, 62, 10); /* Add an active/current color */
+ }
