@@ -1,0 +1,51 @@
+{"apiName":"Pokedex",
+    "origin":"Querétaro",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"Glalie",
+            "type":"Hielo",
+            "height":"1,5 m.",
+            "weight":"256,5 kg",
+            "des":"Ni siquiera el fuego puede derretir su cuerpo de hielo. Es capaz de congelar en un instante la humedad del ambiente.",
+            "figure":"https://drive.google.com/uc?export=view&id=12MDO9dmm3K5gPecseh2zEZg__Fho9C4s"
+        },
+        {
+            "id":2,
+            "name":"Chinchou",
+            "type":"Agua, electrico.",
+            "height":"0,5 m.",
+            "weight":"12,0 kg",
+            "des":"Los Chinchou son muy alegres y bromistas, por eso son fáciles de manipular, pero también pueden traer graves consecuencias.",
+            "figure":"https://drive.google.com/uc?export=view&id=1KBzjd4QKW7hvqmpH-mjhjmrOWxpe-bKU"   
+        },
+        {
+            "id":3,
+            "name":"Nuzleaf",
+            "type":"Planta, siniestro.",
+            "height":"1,0 m.",
+            "weight":"28,0 kg",
+            "des":"Nuzleaf puede ser llorón, frío o cruel; por las bromas es conocido como el Pokémon astuto.",
+            "figure":"https://drive.google.com/uc?export=view&id=1PtOa1w0iT2lPBNM7cHCQZHWJY3vGl4KD"        
+        }, 
+        {
+            "id":4,
+            "name":"Patrat",
+            "type":"Normal.",
+            "height":"0,5 m.",
+            "weight":"11,6 kg",
+            "des":"Este Pokémon vigila siempre a sus madrigueras y se pone muy inquieto cuando no lo hace.",
+            "figure":"https://drive.google.com/uc?export=view&id=1Fg6bP98T_3ktX2gwpit7v_RPFe_B6kWn"  
+        },
+        {
+            "id":5,
+            "name":"Pancham",
+            "type":"Lucha.",
+            "height":"0,6 m.",
+            "weight":"8,0 kg",
+            "des":"Pancham trata de intimidar a sus oponentes mirándolos intensamente, aunque no lo suele conseguir.",
+            "figure":"https://drive.google.com/uc?export=view&id=1yNOywNkumI6X4atWoffRvLpMHx_FtRtL"      
+        }
+    ]
+}

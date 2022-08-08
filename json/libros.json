@@ -1,0 +1,126 @@
+{"apiName":"Libros.",
+    "origin":"Querétaro",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"Boulevard.",
+            "date":"17 de mayo de 2020",
+            "author":"Flor M. Salvador",
+            "des":" ¿Quién dijo que después de la tormenta sale el sol, cuando puede haber un rayo? Luke Howland, lleno de problemas y sumido en una desesperacion profunda, y Hasley Weigel, tan despitada como optimista, no se ajustan al prototipo de pareja perfecta. Como si cada uno fuese un cielo, uno es tormenta y el otro, un día soleado: él es oscuridad. Ella, un rayo de sol. Y, sin embargo, juntos, decidieron ponerle nombre a lo qeu habían creado: un boulevard teñido de tonos grisáceos y de axules celestes y eléctricos preparándose para la tormenta. Ella era para él y él para ella.",
+            "figure":"https://drive.google.com/uc?export=view&id=1C2gv186IaZy8OTxlpkBxbiLrV5r9FHa3"
+        },
+        {
+            "id":2,
+            "name":"Después de él.",
+            "date":"14 de julio de 2022",
+            "author":"Flor M. Salvador",
+            "des":"Tras la muerte de Luke, Hasley debe seguir con su vida, pasar página y mirar hacia adelante.  Cuando su madre le dice que es hora de continuar y dejar el pasado atrás esas palabras se le clavan como puñales en el alma, pero no por ello son menos ciertas. Hasley es joven y tiene todo el tiempo del mundo para rehacer su vida y conocer a alguien más. La vida está llena de oportunidad. Quizás no para Luke, pero sí para Hasley y ella sabe que él hubiese querido que ella continuase su camino y cumpliese sus sueños. Todo cobra un nuevo sentido con la aparición de Harry Beckinsale, licenciado en derecho, dos años mayor que ella y con la vida en orden. ¿Será esta la nueva oportunidad para que los sueños de Hasley puedan descansar en paz junto a la memoria de Luke?",
+            "figure":"https://drive.google.com/uc?export=view&id=15SFMDiQ-8g7SbmP6hMn4dw-HJKEzxXDX"
+        },
+        {
+            "id":3,
+            "name":"Perfectos mentirosos. Mentiras y secretos.",
+            "date":"17 de septiembre de 2020",
+            "author":"Alex Mírez",
+            "des":"Jude acaba de llegar a una de las universidades más elitistas del mundo, pero ya se ha dado cuenta que ahí todo se mueve alrededor de las fiestas, los cotilleos y los ligues entre estudiantes. Y que todo eso gira en torno a un trio irresistible: los hermanos Cash. Son vacilones, astutos, pero insoportablemente atractivos y poderosos. Y por encima de todo están acostumbrados a liderar el campus con sus juegos de niños ricos. Lo que no saben es que Jude tiene un plan: sacar a la luz sus más oscuros y perversos secretos, esos tan bien escondidos tras el lujoso apellido Cash.",
+            "figure":"https://drive.google.com/uc?export=view&id=1BKKjDqXv7GfvUW1iREKILEGNspgIixCH"
+        },
+        {
+            "id":4,
+            "name":"Perfectos mentirosos. Peligros y verdades.",
+            "date":"12 de noviembre de 2020",
+            "author":"Alex Mírez",
+            "des":"En Tangus, una de las universidades más elitistas del mundo, todo gira en torno a un trío irresistible: los hermanos Cash. Son vacilones y astutos, pero insoportablemente atractivos y poderosos. Lo que no saben es que Jude tiene un plan: sacar a la luz sus más oscuros y perversos secretos, esos tan bien escondidos tras el lujoso apellido Cash. Pero los Cash no son los únicos que guardan terribles secretos; Jude se descubre como una perfecta mentirosa. Por fin se desvelarán todos los secretos y mentiras.",
+            "figure":"https://drive.google.com/uc?export=view&id=1SeuE6kNlUIhxOzUPvkfK0UEkXkSTesvr"
+        },
+        {
+            "id":5,
+            "name":"Nosotros en la luna.",
+            "date":"28 de enero de 2020",
+            "author":" Alice Kellen",
+            "des":"Cuando Rhys y Ginger se conocen en las calles de la ciudad de la luz, no imaginan que sus vidas se unirán para siempre, a pesar de la distancia y de que no puedan ser más diferentes. Ella vive en Londres y a veces se siente tan perdida que se ha olvidado hasta de sus propios sueños. Él es incapaz de quedarse quieto en ningún lugar y cree saber quién es. Y cada noche su amistad crece entre emails llenos de confidencias, dudas e inquietudes. Pero ¿qué ocurre cuando el paso del tiempo pone a prueba su relación? ¿Es posible colgarse de la luna junto a otra persona sin poner en riesgo el corazón? Una historia sobre el amor, el destino y la búsqueda de uno mismo. Porque a veces, solo hace falta mirar la luna para sentirte cerca de otra persona.",
+            "figure":"https://drive.google.com/uc?export=view&id=1uvbf7G5NcmuplAd_2Xqave5a5E-oQxW5"
+        },
+        {
+            "id":6,
+            "name":"Antes de diciembre.",
+            "date":"11 de noviembre de 2021",
+            "author":"Joana Marcús",
+            "des":"Para Jenna Brown, su primer año en la Universidad suponía alejarse de su familia y sus amigos y enfrentarse al mundo por primera vez en su vida. Su novio le había dejado claras sus intenciones: a partir de ese momento, tenían una relación a distancia y abierta. Ambos podían hacer lo que quisieran porque sabían que se querían el uno al otro. Así que no pasaba nada si no dejaba de acercarse al mejor amigo del novio de su compañera de habitación, ¿no? de todos modos, ¿qué importaba si estaba con él en ausencia de su novio? Todo volvería a la normalidad en diciembre. ¿Cambiaría algo? Tenía hasta entonces para descubrirlo.",
+            "figure":"https://drive.google.com/uc?export=view&id=11qnax0G2nhsn0SLPtxWvT4jn_gFJ7L3Y"
+        },
+        {
+            "id":7,
+            "name":"Hecha de estrellas.",
+            "date":"15 de mayo de 2018",
+            "author":"Ashley Herring Blake",
+            "des":"Mara y Owen son los gemelos más cercanos del mundo. Así que cuando él es acusado de violación, ella no sabe qué pensar. ¿Puede su hermano ser culpable de algo tan atroz? Dividida entre el amor por su familia y su sentido de la justicia, Mara deberá hacerle frente a un trauma del pasado que le impide ser libre y ser fuerte para enfrentar la realidad de su presente. Con sensibilidad y franqueza, esta novela encara el abuso sexual, la culpa que enfrentan las víctimas y los límites del consentimiento.",
+            "figure":"https://drive.google.com/uc?export=view&id=17BsJPQXd167PMYo_N7fEQPzR0y6z_kpj"
+        },
+        {
+            "id":8,
+            "name":"El chico que dibujaba constelaciones.",
+            "date":"9 de enero de 2018",
+            "author":"Alice Kellen",
+            "des":"Esta es una historia de amor, de sueños y de vida. La de Valentina. La chica que no sabía que tenía el mundo a sus pies, la que creció y empezó a pensar en imposibles. La que cazaba estrellas, la que anhelaba más, la que tropezó con él. Con Gabriel. El chico que dibujaba constelaciones, el valiente e idealista, el que confió en las palabras «para siempre», y creó los pilares que terminaron sosteniendo el pasado, el ahora, lo que fueron y los recuerdos que se convertirán en polvo.",
+            "figure":"https://drive.google.com/uc?export=view&id=1GfVA2OFDteIiU-DyvHfo1sFn9tunfNzS"
+        },
+        {
+            "id":9,
+            "name":"Rumbo a ti.",
+            "date":"23 de diciembre de 2021",
+            "author":"Beth O'Leary",
+            "des":"Todo el mundo tiene un ex. El de ADDIE es Dylan: hijo de familia adinerada, poeta de mirada intensa y manos cálidas... y la persona que le rompió el corazón. Tras dos años sin verlo, está segura de haberlo superado, pero el destino no opina lo mismo. De camino con su hermana a una boda en Escocia, un coche choca con ellas. El conductor es Dylan, que también va con su mejor amigo a la celebración. Y ahora, si quieren llegar a tiempo a la ceremonia, tendrán que viajar juntos. Hace dos años, DYLAN cometió un error: dejó marchar a la única chica de la que se ha enamorado. Sin embargo, parece que tiene una segunda oportunidad para recuperarla y, esta vez, no se va a rendir: hará lo que haga falta para convencer a Addie de que el final de su historia juntos aún está por escribirse.",
+            "figure":"https://drive.google.com/uc?export=view&id=1tq9adfgD8E7ZQH1-KJ-O4leU9ojJNktr"
+        },
+        {
+            "id":10,
+            "name":"Un cuento perfecto.",
+            "date":"20 de febrero de 2020",
+            "author":"Elisabet Benavent",
+            "des":"¿Qué sucede cuando descubres que el final de tu cuento no es como soñabas? Érase una vez una mujer que lo tenía todo y un chico que no tenía nada. Érase una vez una historia de amor entre el éxito y la duda. Érase una vez un cuento perfecto.",
+            "figure":"https://drive.google.com/uc?export=view&id=1xEAiqwr8mZVPh_6HSpa48bYz8i0DvMyp"
+        },
+        {
+            "id":11,
+            "name":"Ragdoll (muñeco de trapo).",
+            "date":"marzo de 1995",
+            "author":"Daniel Cole",
+            "des":"«Ragdoll, el muñeco de trapo» es el nombre con el que los medios sensacionalistas han bautizado al macabro hallazgo en un piso vacío de Londres. Cuelga del techo mediante unos hilos, apunta con un dedo hacia la ventana y está hecho con «retales» de seis personas, cosidos para formar un solo cuerpo del que solo han podido identificar la cabeza. ¿Quiénes eran las otras cinco víctimas? ¿Y por qué el dedo del Ragdoll señalaba hacia el apartamento de enfrente, donde vive el detective William Fawkes, alias Wolf? Casi inmediatamente después del macabro hallazgo, el asesino hace llegar a la prensa una lista con sus seis próximas víctimas y el día en que las matará. El detective y su equipo, presionados por sus superiores y acosados por la prensa, deben descubrir por qué fueron asesinados y que tienen en común para desenmascarar al culpable antes de que cumpla su amenaza. Un malévolo juego del gato y el ratón con un asesino que desafía a la policía y un país entero que contiene el aliento... Y es que esa mente perversa siempre va un paso por delante. Un peligroso desafío en el que es imposible no involucrarse.",
+            "figure":"https://drive.google.com/uc?export=view&id=1nn6QnMhR3HEZoyqqGgb5AdJtszGS5GFF"
+        },
+        {
+            "id":12,
+            "name":"El mapa de los anhelos.",
+            "date":"30 de marzo de 2022",
+            "author":"Alice Kellen",
+            "des":"¿Y si te diesen un mapa para descubrir quién eres? ¿Seguirías la ruta marcada hasta el final? Imagina que estás destinada a salvar a tu hermana, pero al final ella muere y la razón de tu existencia se desvanece. Eso es lo que le ocurre a Grace Peterson, la chica que siempre se ha sentido invisible, la que nunca ha salido de Nebraska, la que colecciona palabras y ve pasar los días refugiada en la monotonía. Hasta que llega a sus manos el juego de El mapa de los anhelos y, siguiendo las instrucciones, lo primero que debe hacer es encontrar a alguien llamado Will Tucker, del que nunca ha oído hablar y que está a punto de embarcarse con ella en un viaje directo al corazón, lleno de vulnerabilidades y sueños olvidados, anhelos y afectos inesperados. Pero ¿es posible avanzar cuando los secretos comienzan a pesar demasiado? ¿Quién es quién en esta historia?",
+            "figure":"https://drive.google.com/uc?export=view&id=1llF7twXZiMzbcbLoWufgyPDNStmj6bhT"
+        },
+        {
+            "id":13,
+            "name":"Te espero en el fin del mundo.",
+            "date":"29 de septiembre de 2021",
+            "author":"Andrea Longarela",
+            "des":"¿Con quién te gustaría estar si supieras que mañana se acaba el mundo? Violet y Levi se conocen desde niños. Él sueña con crear un hogar. Ella, con escapar del suyo. Son mejores amigos, siempre están el uno para el otro y, cuando empiezan a crecer, se dan cuenta de que sus sentimientos también lo hacen. Intensos. Imparables. Únicos. Pero Levi desea echar raíces entre montañas mientras que Violet quiere volar muy alto y comerse el mundo. Es posible que no existan dos personas más incompatibles que encajen mejor. Una cabaña abandonada, una colección de figuras de madera y un amor de los que marcan toda una vida. El de Levi, el chico que hacía muchas preguntas, y el de Vi, la chica que tenía todas las respuestas.",
+            "figure":"https://drive.google.com/uc?export=view&id=1ffgRfg2lqcMBRU7k3Dk9p0OFGPy0ZKxx"
+        },
+        {
+            "id":14,
+            "name":"Lascivia.",
+            "date":"28 de abril de 2022",
+            "author":"Eva Muñoz",
+            "des":"Tras las vacaciones, Rachel James debe volver a su puesto como teniente en el ejército de la FEMF y se encuentra con que la central de Londres no es la misma, ya que los cimientos de su vida perfecta tiemblan con la llegada de un nuevo coronel, soberbio y con una belleza inhumana, que ha tomado el comando. Christopher Morgan está al mando y cree tenerlo todo claro, pero las tentaciones desencadenarán un torbellino de pasiones soltando el tipo de llama que hace arder a aquellos que se hacen llamar amantes.",
+            "figure":"https://drive.google.com/uc?export=view&id=1k-kDrCVh_CkMOUbr5SQEac6NZ2TPLJx1"
+        },
+        {
+            "id":15,
+            "name":"Silence.",
+            "date":"30 de noviembre de 2021",
+            "author":"Flor M. Salvador",
+            "des":"¿Y si la leyenda del hilo rojo te lleva a más de una persona? Quizás el hilo rojo te conecta con todas aquellas personas con las que estás destinado a estar, tus padres, hermanos, amigos, amantes e incluso tus mascotas; todas esas personas que te darán alegría y risas pero también tristeza y lágrimas. Así como aquellas que llenarán de color tus días tétricos y que tú, a su vez, los harás sentir vivos. Todas esas personas sin las cuales tu vida solo seria silencio.",
+            "figure":"https://drive.google.com/uc?export=view&id=170uC6Udd8wFFZB7juzGefcrCOz272uML"
+        }
+    ]
+}
